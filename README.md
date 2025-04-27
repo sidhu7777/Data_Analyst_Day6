@@ -19,7 +19,7 @@ Reporting: Generate focused reports for customers and products.
 Each SQL script is modular, focusing on a specific part of the exploration or analysis process.
 
 # Project Structure 
-
+```
 project/
 │
 ├── scripts/
@@ -32,6 +32,7 @@ project/
 ├── README.md
 ├── LICENSE
 
+```
 scripts/: Contains all SQL scripts organized sequentially for easy workflow execution.
 
 README.md: Project documentation and usage guide.
